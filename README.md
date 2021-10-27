@@ -6,7 +6,7 @@ web开发者工具
 ##### 2.编辑工具
 - sublime
 - visual studio code
-- phstorm
+- phpstorm
 - netbeans
 *启动速度由上往下依次变慢*
 ##### 3.抓数据包
